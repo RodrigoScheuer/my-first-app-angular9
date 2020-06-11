@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-first-app-with-angular9": {
+      "hosting": {
+        "my-first-app": [
+          "my-first-app-with-angular9"
+        ]
+      }
+    }
+  }
+}
